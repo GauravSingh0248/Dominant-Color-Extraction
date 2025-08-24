@@ -51,8 +51,12 @@ or
 Show the Extracted dominant colors.
 
 Sample Input / Output
+
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+
 📚 Reach Me Out : officialgaurav0408@gmail.com
                    https://linkedin.com/in/gauravsingh0248
